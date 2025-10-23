@@ -1,0 +1,19 @@
+D:\Programming\c#\11th programs\entrance\entrance\bin\Debug\entrance.exe.config
+D:\Programming\c#\11th programs\entrance\entrance\bin\Debug\entrance.exe
+D:\Programming\c#\11th programs\entrance\entrance\bin\Debug\entrance.pdb
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.csprojResolveAssemblyReference.cache
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.Form1.resources
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.Properties.Resources.resources
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.csproj.GenerateResource.Cache
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.exe
+D:\Programming\c#\11th programs\entrance\entrance\obj\Debug\entrance.pdb
+D:\Programming\c#\11th programs\entrance - Copy\entrance\bin\Debug\entrance.exe.config
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.exe
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.pdb
+D:\Programming\c#\11th programs\entrance - Copy\entrance\bin\Debug\entrance.exe
+D:\Programming\c#\11th programs\entrance - Copy\entrance\bin\Debug\entrance.pdb
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.csproj.AssemblyReference.cache
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.Form1.resources
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.Properties.Resources.resources
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.csproj.GenerateResource.cache
+D:\Programming\c#\11th programs\entrance - Copy\entrance\obj\Debug\entrance.csproj.CoreCompileInputs.cache
