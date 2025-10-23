@@ -20,6 +20,7 @@ The form, titled **"User Information Form Sample"** (نمون برگ اطلاع�
 
 The application logic is primarily contained within the `Form1.cs` file under the `entrance` namespace.
 
+
 ### Validation Rules
 
 | Field | $\text{TextBox}$ Name | Rule | Action on Error |
